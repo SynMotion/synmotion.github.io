@@ -1,26 +1,4 @@
-<!-- <style>
-.markdown-body h1 {
-    border-bottom: none
-}
-.markdown-body h2 {
-    border-bottom: 2px solid grey;
-}
-.markdown-body {
-    border-bottom: 2px solid black;
-    padding-left: 65px !important;
-    padding-right: 65px !important;
-    box-shadow: 5px 2px 2px grey;
-    background: white;
-}
-body {
-    background: #c1bebe;
-}
-</style>
-<div>
-    <br><br><br>
-    <h1 style="text-align:center;"><b>ASGaze: Gaze Tracking on Any Surface with Your Phone</b></h1>
-<!--     <p style="font-size:20px;text-align:center;"><b>Improving Non-Cooperative Iris Tracking</b></p> -->
-</div> 
+
 
 # SynMotion: Synthesized Millimeter-Waves for Human Motion Sensing 
 ## Overview
