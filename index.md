@@ -20,7 +20,7 @@ body {
     <br><br><br>
     <h1 style="text-align:center;"><b>ASGaze: Gaze Tracking on Any Surface with Your Phone</b></h1>
 <!--     <p style="font-size:20px;text-align:center;"><b>Improving Non-Cooperative Iris Tracking</b></p> -->
-</div> -->
+</div> 
 
 # SynMotion: Synthesized Millimeter-Waves for Human Motion Sensing 
 ## Overview
