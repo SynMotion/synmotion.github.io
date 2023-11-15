@@ -14,5 +14,12 @@ Our code and data samples are open source: [SynMotion](https://github.com/Zxtttt
 
 If you find our work useful in your research, please consider citing:
 
-```Coming soon...```
-
+```
+@inproceedings{zhang2022synthesized,
+  title={Synthesized Millimeter-Waves for Human Motion Sensing},
+  author={Zhang, Xiaotong and Li, Zhenjiang and Zhang, Jin},
+  booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+  pages={377--390},
+  year={2022}
+}
+```
