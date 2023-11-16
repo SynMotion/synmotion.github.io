@@ -29,9 +29,17 @@ body {
 
 In this project, we presents SynMotion, a new mmWave-based human motion sensing system. Its novelty lies in harvesting available vision-based human motion datasets, for knowing the coordinates of body skeletal points under different motions, to synthesize mmWave sensing signals that bounce off the human body, so that the synthesized signals could inherit labels (skeletal coordinates and the name of each motion) from vision-based datasets directly. SynMotion demonstrates the ability to generate such labeled synthesized data at high quality to address the training-data scarcity issue and enable two sensing services that can work with commercial radars, including 1) zero-shot activity recognition, where the classifier reads real mmWaves for recognition, but it is only trained on synthesized data; and 2) body skeleton tracking with few/zero-shot learning on real mmWaves. To design SynMotion, we address the challenges of both the inherent complication of mmWave synthesis and the micro-level differences compared to real mmWaves. Extensive experiments show that SynMotion outperforms the latest zero-shot mmWave-based activity recognition method. For skeleton tracking, SynMotion achieves comparable performance to the state-of-the-art mmWave-based method trained on the labeled mmWaves, and SynMotion can further outperform it for the unseen users.
 
-## Code
 
-Our code and data samples are open source: [SynMotion](https://github.com/Zxttttttt/SynMotion)
+## Publication
+
+**Synthesized Millimeter-Waves for Human Motion Sensing**
+
+**Xiaotong Zhang**, Zhenjiang Li, Jin Zhang
+
+ACM SenSys, 2022
+
+<a href="https://dl.acm.org/doi/pdf/10.1145/3560905.3568542">[pdf]</a>  <a href="https://github.com/Zxttttttt/SynMotion">[code]</a>  <a href="https://www.cs.cityu.edu.hk/~zhenjili/2022-SenSys-Synmotion-Slides.pdf">[slides]</a>
+
 
 ## Citation
 
